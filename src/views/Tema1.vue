@@ -101,7 +101,7 @@
           div(titulo="Control de plagas y residuos")
             .row.justify-content-center.p-3
               .col-xl-8
-                p.ms-5 Consiste en la prevención, monitoreo y erradicación de insectos, roedores y otros animales que puedan contaminar los alimentos. Incluye barreras físicas, trampas, inspecciones periódicas y programas documentados de control, este pilar protege la planta de riesgos biológicos externos que afectan la inocuidad.
+                p.ms-5 Consiste en la prevención, monitoreo y erradicación de insectos, roedores y otros animales que puedan contaminar los alimentos. Incluye barreras físicas, trampas, inspecciones periódicas y programas documentados de control. Este pilar protege la planta de riesgos biológicos externos que afectan la inocuidad.
               .col-xl-4
                 figure
                   img(src="@/assets/curso/tema1/10.png", alt="")

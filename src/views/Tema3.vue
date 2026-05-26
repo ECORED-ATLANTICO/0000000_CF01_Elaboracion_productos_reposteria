@@ -101,7 +101,7 @@
             p.mb-0 En repostería, se utiliza principalmente para preparar glaseados, cremas, coberturas y para decorar productos como tortas, galletas y postres.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Azúcares morenos ")
             h4 Azúcares morenos 
-            p.mb-0 Es un tipo de azúcar que conserva parte de la melaza natural de la caña de azúcar, lo que le da su color oscuro, un sabor más intenso y una textura ligeramente húmeda. Estas características la diferencian de la azúcar blanca refinada, la cual es ideal para <em>brownies</em>, galletas de chispas de chocolate y pasteles de especias.
+            p.mb-0 Es un tipo de azúcar que conserva parte de la melaza natural de la caña de azúcar, lo que le da su color oscuro, un sabor más intenso y una textura ligeramente húmeda. Estas características la diferencian del azúcar blanca refinada, ideales para <em>brownies</em>, galletas de chispas de chocolate y pasteles de especias.
             
           .tarjeta.color-acento-botones--borde.p-4(titulo="Miel y otros edulcorantes")
             h4 Miel y otros edulcorantes
@@ -141,7 +141,7 @@
         .row.justify-content-center.align-items-center.p-4.p-lg-0
           .col-lg-8.mb-4.mb-lg-0
             h4 Aceites vegetales (girasol, canola, maíz)
-            p Son grasas líquidas de origen vegetal usados en bizcochos húmedos (como el de zanahoria o yogur) y masas fritas. No aportan sabor y mantienen los productos más húmedos por más tiempo.
+            p Son grasas líquidas de origen vegetal usadas en bizcochos húmedos (como el de zanahoria o yogur) y masas fritas. No aportan sabor y mantienen los productos más húmedos por más tiempo.
           .col-lg-3
             figure
               img(src='@/assets/curso/tema3/12.png', alt='')
@@ -201,7 +201,7 @@
             .col-lg-8.mb-4.mb-md-0.order-1
               h4 Lácteos
               p <b>Leche</b>: entera, semidesnatada o desnatada. La grasa de la leche entera aporta sabor y terneza. Se puede usar en polvo (rehidratada) para mayor duración.
-              p <b>Crema de leche (o nata)</b>: fundamental para <em>ganaches, mousses</em>, cremas <em>chantilly</em> y salsas. Según su contenido de grasa (35 - 40 % para montar), puede batirse para aumentar su volumen.
+              p <b>Crema de leche (o nata)</b>: fundamental para <em>ganaches, mousses</em>, cremas <em>chantilly</em> y salsas. Según su contenido de grasa (35 - 40 %) para montar, puede batirse para aumentar su volumen.
               p <b>Huevos</b>: un ingrediente multifuncional. Las claras aportan estructura y esponjosidad (al batirlas). Las yemas aportan grasa, color, sabor y actúan como emulsionantes.
               p <b>Quesos</b>: crema (tipo <em>Philadelphia</em>) para <em>cheesecakes</em>, mascarpone para <em>tiramisú, ricotta</em> para tartas y pastas.
 
@@ -215,7 +215,7 @@
 
               p <b>Chocolate con leche</b>: mezcla de pasta de cacao, manteca de cacao, leche y azúcar.
 
-              p <b>Chocolate oscuro (amargo, semi-amargo, <em>bitter</em>)</b>: contiene pasta de cacao, manteca de cacao y azúcar. A mayor porcentaje de cacao (>70 %), más intenso y menos dulce.
+              p <b>Chocolate oscuro (amargo, semiamargo, <em>bitter</em>)</b>: contiene pasta de cacao, manteca de cacao y azúcar. A mayor porcentaje de cacao (>70 %), más intenso y menos dulce.
 
               p <b>Formatos</b>: en cobertura (tabletas de alta calidad, con mayor contenido de manteca de cacao, ideales para templar y fundir), en polvo (para mezclar o decorar), en gotas (para galletas).
 

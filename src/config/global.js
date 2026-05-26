@@ -179,7 +179,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA1_63520004_DU.pdf',
+        download: 'downloads/63520004_CF1_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -411,8 +411,7 @@ export default {
     {
       referencia:
         'PÉREZ, A., & MARTÍNEZ, J. (2020). <em>Revista Española de Ciencia y Tecnología de Alimentos, 28(3), 112-125.</em>',
-      link:
-        'https://www.elsevier.es/es-revista-revista-espanola-nutricion-humana-dietetica-314',
+      link: '',
     },
     {
       referencia:

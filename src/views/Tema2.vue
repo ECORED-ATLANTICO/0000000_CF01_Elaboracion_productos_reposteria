@@ -64,7 +64,7 @@
         .row.justify-content-center.align-items-center.p-4.p-lg-0
           .col-lg-8.mb-4.mb-lg-0
             h4 Batidora de pedestal(o amasadora)
-            p La más común. consta de un <em>bowl</em> y varios accesorios (globo, pala, gancho) que realizan diferentes funciones. Fundamental para elaborar merengues, cremas, masas batidas y masas pesadas (pan, pasta).
+            p La más común. Consta de un <em>bowl</em> y varios accesorios (globo, pala, gancho) que realizan diferentes funciones. Fundamental para elaborar merengues, cremas, masas batidas y masas pesadas (pan, pasta).
           .col-lg-3
             figure
               img(src='@/assets/curso/tema2/4.png', alt='')
@@ -475,7 +475,7 @@
                 figure
                   img(src="@/assets/curso/tema2/37.png", alt="alt")
               .crd_hover_txt--body
-                h4.mb-3 Mensual / trimestral
+                h4.mb-3 Mensual/trimestral
                 p.mb-0 Mantenimiento técnico: lubricar partes móviles; revisar fugas de gas; verificar carga de gas refrigerante.
 
 </template>

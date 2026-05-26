@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Proceso de alistamiento y diagrama de flujo
+      h1 Proceso de alistamiento y diagramas de flujo
     
     img(src="@/assets/curso/tema4/1.png", alt="Imagen decorativa")
     
@@ -82,7 +82,7 @@
                 p.text-center Pesar y medir cada ingrediente en recipientes individuales (<em>bains-marie</em> o <em>bowls</em>s pequeños), siguiendo el orden de la receta.
               .bg-color-sintesis.tarjeta.p-4.h-100.box-shadow
                 img(src='@/assets/curso/tema4/12.svg' alt='' , style="max-width: 90px").mx-auto.mb-3
-                p.text-center Realizar las preparaciones previas: tamizar harinas, picar chocolate, tostar frutos secos, pre-calentar el horno, engrasar moldes.
+                p.text-center Realizar las preparaciones previas: tamizar harinas, picar chocolate, tostar frutos secos, precalentar el horno, engrasar moldes.
               .bg-color-sintesis.tarjeta.p-4.h-100.box-shadow
                 img(src='@/assets/curso/tema4/13.svg' alt='' , style="max-width: 90px").mx-auto.mb-3
                 p.text-center Organizar el espacio de trabajo: colocar los ingredientes y herramientas de manera lógica para que el proceso fluya.
@@ -109,10 +109,10 @@
         h3.titulo-con-imagen__texto Simbología básica en diagramas de flujo (Norma ANSI/ASME)
 
     TabsB.color-acento-contenido.mb-5
-      .py-4.py-md-5(titulo="Óvalo (inicio / fin)" :icono="require('@/assets/componentes/15.svg')")
+      .py-4.py-md-5(titulo="Óvalo (inicio/fin)" :icono="require('@/assets/componentes/15.svg')")
         .row.justify-content-center.align-items-center.p-4.p-lg-0
           .col-lg-8.mb-4.mb-lg-0
-            h4 Óvalo (inicio / fin)
+            h4 Óvalo (inicio/fin)
             p Indica el comienzo o la terminación del proceso.
           .col-lg-3
             figure
@@ -126,12 +126,12 @@
           .col-lg-3
             figure
               img(src='@/assets/curso/tema4/16.png', alt='')
-      .py-4.py-md-5(titulo="Rombo (decisión / punto de control)" :icono="require('@/assets/componentes/17.svg')")
+      .py-4.py-md-5(titulo="Rombo (decisión/punto de control)" :icono="require('@/assets/componentes/17.svg')")
         .row.justify-content-center.align-items-center.p-4.p-lg-0
           .col-lg-8.mb-4.mb-lg-0
-            h4 Rombo (decisión / punto de control)
+            h4 Rombo (decisión/punto de control)
             p Indica un punto donde se debe tomar una decisión, generalmente sobre la calidad o condición del insumo. 
-            p <b>Ejemplo</b>: ¿La temperatura de la leche es la adecuada? SI / NO.
+            p <b>Ejemplo</b>: ¿La temperatura de la leche es la adecuada? SÍ/NO.
 
           .col-lg-3
             figure
